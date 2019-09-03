@@ -9,7 +9,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 	
  
  # Click On Picture to donate 
-[![Donate](https://github.com/abhawasthi/php-codeigniter-login-signup/blob/master/uploads/profiles/1.jpg)](paypal.me/abhishekawasthi7)
+[![Donate](https://github.com/abhawasthi/php-codeigniter-login-signup/blob/master/uploads/39170354.png)](paypal.me/abhishekawasthi7)
 
 
 
