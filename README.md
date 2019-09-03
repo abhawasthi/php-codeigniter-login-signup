@@ -20,7 +20,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
  
  # Contributer 
-[![Donate](https://github.com/abhawasthi/php-codeigniter-login-signup/blob/master/uploads/39170354.png)]
+(https://github.com/abhawasthi/php-codeigniter-login-signup/blob/master/uploads/39170354.png)
 
 
 
