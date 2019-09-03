@@ -12,8 +12,9 @@ If this project help you reduce time to develop, you can give me a cup of coffee
  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HZAZ43VRZVAPL)
 	
 			##  OR
-			
-[Click to donate](paypal.me/abhishekawasthi7)
+ 
+See [**Direct link to donate**](paypal.me/abhishekawasthi7)
+
  
  # Contributer 
 [![Donate](https://github.com/abhawasthi/php-codeigniter-login-signup/blob/master/uploads/39170354.png)]
