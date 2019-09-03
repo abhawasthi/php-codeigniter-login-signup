@@ -13,7 +13,11 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 	
 			##  OR
  
-See [**Direct link to donate**](paypal.me/abhishekawasthi7)
+See [**Direct link to donate**]()
+
+### Donate Now:
+ Click on link [paypal.me/abhishekawasthi7](paypal.me/abhishekawasthi7) to donate dirctly .
+
 
  
  # Contributer 
