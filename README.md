@@ -15,7 +15,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
  
  
 ### Donate Now:
- Click on link [paypal.me/abhishekawasthi7](paypal.me/abhishekawasthi7) to donate directly .
+ Click on link [https://paypal.me/abhishekawasthi7](https://paypal.me/abhishekawasthi7) to donate directly .
 
 
  
